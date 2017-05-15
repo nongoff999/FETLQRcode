@@ -7,21 +7,21 @@
     tools:context="fetl.kitsadap.fetlqrcode.MainActivity">
 
     <ImageView
-        android:scaleType="center"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/bg" />
+        android:scaleType="center"
+        android:src="@drawable/wallpaper">
+
+    </ImageView>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/margin"
+        android:background="#a8ffffff"
         android:gravity="center_horizontal"
         android:orientation="vertical"
-        android:padding="20dp"
-        android:background="#cbffffff"
-        
-        >
+        android:padding="20dp">
 
         <ImageView
             android:layout_width="wrap_content"
