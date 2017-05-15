@@ -18,9 +18,10 @@
         android:layout_margin="@dimen/margin"
         android:gravity="center_horizontal"
         android:orientation="vertical"
-        android:background="#d4ffffff"
         android:padding="20dp"
-        />
+        android:background="#cbffffff"
+        
+        >
 
         <ImageView
             android:layout_width="wrap_content"
