@@ -7,9 +7,10 @@
     tools:context="fetl.kitsadap.fetlqrcode.MainActivity">
 
     <ImageView
+
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scaleType="center"
+        android:scaleType="centerCrop"
         android:src="@drawable/wallpaper">
 
     </ImageView>
@@ -21,6 +22,7 @@
         android:background="#a8ffffff"
         android:gravity="center_horizontal"
         android:orientation="vertical"
+
         android:padding="20dp">
 
         <ImageView
@@ -80,5 +82,4 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:text="@string/login" />
-
 </RelativeLayout>
