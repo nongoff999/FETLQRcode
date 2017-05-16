@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">FETL QR code</string>
-    <string name="password">password</string>
-    <string name="user">user</string>
+    <string name="password">Password :</string>
+    <string name="user">User :</string>
     <string name="login">login</string>
+    <string name="new_register">New Register</string>
+    <string name="name">Name :</string>
+
+
+    <string name="title_HaveSpace">มีช่องว่าง</string>
+    <string name="massage_HaveSpace">กรอกทุกช่อนนะ</string>
+    <string name="title_UserFalse">User Fales</string>
+    <string name="massage_UserFalse">No This User in My Database</string>
+    <string name="title_plassFalse">Password False</string>
+    <string name="message_PasswordFales">Please Try Again Password False</string>
 </resources>

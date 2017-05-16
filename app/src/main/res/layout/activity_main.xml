@@ -76,7 +76,7 @@
             android:id="@+id/txtNewRegis"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="New Register"
+            android:text="@string/new_register"
             android:textColor="@color/colorPrimaryDark" />
 
     </LinearLayout>
