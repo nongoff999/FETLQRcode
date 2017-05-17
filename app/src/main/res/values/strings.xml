@@ -8,7 +8,7 @@
 
 
     <string name="title_HaveSpace">มีช่องว่าง</string>
-    <string name="massage_HaveSpace">กรอกทุกช่อนนะ</string>
+    <string name="massage_HaveSpace">กรุณากรอกให้ครบทุกช่อง</string>
     <string name="title_UserFalse">User Fales</string>
     <string name="massage_UserFalse">No This User in My Database</string>
     <string name="title_plassFalse">Password False</string>
